@@ -138,7 +138,7 @@ function Index() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Sparkles" size={28} className="text-primary-foreground" />
-            <h1 className="text-2xl md:text-3xl font-bold text-primary-foreground">Вышитые открытки</h1>
+            <h1 className="text-2xl md:text-3xl font-bold text-primary-foreground">Атрибутика уюта</h1>
           </div>
           
           <nav className="hidden md:flex gap-6">
@@ -425,7 +425,7 @@ function Index() {
         <div className="container mx-auto px-4 text-center text-muted-foreground">
           <p className="flex items-center justify-center gap-2">
             <Icon name="Heart" size={16} className="text-accent-foreground" />
-            Сделано с любовью © 2024 Вышитые открытки
+            Сделано с любовью © 2024 Атрибутика уюта
           </p>
         </div>
       </footer>
