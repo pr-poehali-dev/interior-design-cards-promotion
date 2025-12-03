@@ -25,45 +25,45 @@ interface CartItem extends Product {
 const products: Product[] = [
   {
     id: 1,
-    name: 'Открытка "Весенние цветы"',
+    name: 'Открытка "Пион"',
     price: 850,
-    image: '/placeholder.svg',
-    description: 'Нежная открытка с вышивкой полевых цветов'
+    image: 'https://cdn.poehali.dev/files/672fd281-fed2-4926-8701-66ba1e95e09a.jpg',
+    description: 'Нежная открытка с вышивкой розового пиона на изумрудном фоне'
   },
   {
     id: 2,
-    name: 'Открытка "Уютный дом"',
+    name: 'Открытка "Скорпион"',
     price: 950,
-    image: '/placeholder.svg',
-    description: 'Теплая открытка с вышитым домиком'
+    image: 'https://cdn.poehali.dev/files/ed76217a-855a-4612-b216-ecf4675c0e43.jpg',
+    description: 'Яркая открытка с вышитым золотым скорпионом в стиле знаков зодиака'
   },
   {
     id: 3,
-    name: 'Открытка "Птицы"',
-    price: 750,
-    image: '/placeholder.svg',
-    description: 'Элегантная открытка с изображением птиц'
+    name: 'Открытка "Пион"',
+    price: 850,
+    image: 'https://cdn.poehali.dev/files/672fd281-fed2-4926-8701-66ba1e95e09a.jpg',
+    description: 'Элегантная открытка с пышным цветком пиона'
   },
   {
     id: 4,
-    name: 'Открытка "Горы"',
-    price: 900,
-    image: '/placeholder.svg',
-    description: 'Стильная открытка с горным пейзажем'
+    name: 'Открытка "Скорпион"',
+    price: 950,
+    image: 'https://cdn.poehali.dev/files/ed76217a-855a-4612-b216-ecf4675c0e43.jpg',
+    description: 'Стильная открытка со знаком зодиака Скорпион'
   },
   {
     id: 5,
-    name: 'Открытка "Лаванда"',
-    price: 800,
-    image: '/placeholder.svg',
-    description: 'Ароматная открытка с веточками лаванды'
+    name: 'Открытка "Пион"',
+    price: 850,
+    image: 'https://cdn.poehali.dev/files/672fd281-fed2-4926-8701-66ba1e95e09a.jpg',
+    description: 'Ароматная открытка с изысканным пионом'
   },
   {
     id: 6,
-    name: 'Открытка "Звезды"',
-    price: 850,
-    image: '/placeholder.svg',
-    description: 'Волшебная открытка с золотыми звездами'
+    name: 'Открытка "Скорпион"',
+    price: 950,
+    image: 'https://cdn.poehali.dev/files/ed76217a-855a-4612-b216-ecf4675c0e43.jpg',
+    description: 'Волшебная открытка с мистическим скорпионом'
   }
 ];
 
